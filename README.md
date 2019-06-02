@@ -1,5 +1,5 @@
 # BSs in Economics Thesis: Interaction of Fiscal and Monetary Policies in a DSGE Model
 # Abstract
 We build a DSGE model for country with corruption and embezlmenet among fiscal authorities to study the interaction between monetary and fiscal policy in this case. In this model fiscal authorities receive less tax revenue and as a result this influence the implemented policy. The main findings are: 1) monetary policy shoks in the form of a permanent increase in gross money growth rate have in long run the same results for corrupted and uncorrupted policy makers in regard to deviation of output from its steady state. Though the consumption in the situation with uncorrupted policy makers is higher, than in the corrupted economy. 2) In the long run the corruption index (or embezzlement rate) does not affect the stationary state changes of output. 3) technology shock has no difference for economy with and without corruption in long run periods with respect to output.
-# Fullt text in Russian
+# Full text in Russian
 https://www.hse.ru/en/edu/vkr/182272076 
